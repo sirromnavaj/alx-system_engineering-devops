@@ -1,3 +1,2 @@
 #!/bin/bash
-less
 ./3-listfiles
