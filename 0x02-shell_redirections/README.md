@@ -21,4 +21,7 @@
 20 Removes all letters c and C from input.
 21 Reverse its input.
 22 Displays all users and their home directories, sorted by users.
-23 
+23 A command that finds all empty files and directories in the current directory and all sub-directories
+24 A script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+25 Decodes acrostics that use the first letter of each line
+26 Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. 
