@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'AcCa' | tr -d 'cC'
