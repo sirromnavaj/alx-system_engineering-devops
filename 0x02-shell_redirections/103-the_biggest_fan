@@ -1,0 +1,2 @@
+#!/bin/bash
+logParser -i:TSV "SELECT *FROM webservers.log" |sort -S
