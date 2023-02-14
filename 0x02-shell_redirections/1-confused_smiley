@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -X ""(Ôo)" 1-confused_smiley
+grep -X ""(Ôo)"
